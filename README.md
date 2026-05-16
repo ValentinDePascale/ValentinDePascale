@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a student of the University Technical Degree in Programming at the UTN. I’ve always been passionate about computer science, studying it since high school.<br>I’m highly motivated to keep learning and growing, with the goal of becoming a great professional.
 
 
